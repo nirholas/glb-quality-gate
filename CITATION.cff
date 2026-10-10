@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "glb-quality-gate"
+abstract: "GitHub Action that reviews every pull request that changes a GLB: diffs geometry, materials, textures and animation, posts one idempotent report and gates on a severity you choose."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/glb-quality-gate"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

@@ -1,0 +1,26 @@
+# glb-quality-gate
+
+> GitHub Action that reviews every pull request that changes a GLB: diffs geometry, materials, textures and animation, posts one idempotent report and gates on a severity you choose.
+
+glb-quality-gate is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/glb-quality-gate/blob/HEAD/README.md): install, usage and reference
+- [Use it](https://github.com/nirholas/glb-quality-gate/blob/HEAD/README.md#use-it)
+- [Severity](https://github.com/nirholas/glb-quality-gate/blob/HEAD/README.md#severity)
+- [Inputs and outputs](https://github.com/nirholas/glb-quality-gate/blob/HEAD/README.md#inputs-and-outputs)
+- [Development](https://github.com/nirholas/glb-quality-gate/blob/HEAD/README.md#development)
+- [Release](https://github.com/nirholas/glb-quality-gate/blob/HEAD/README.md#release)
+- [License](https://github.com/nirholas/glb-quality-gate/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/glb-quality-gate/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/glb-quality-gate/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/glb-quality-gate)
+- [Issues](https://github.com/nirholas/glb-quality-gate/issues)
+- [Discussions](https://github.com/nirholas/glb-quality-gate/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
