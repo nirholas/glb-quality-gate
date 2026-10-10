@@ -1,0 +1,33 @@
+three.ws
+Copyright 2026 nirholas
+
+This product includes software developed as part of the three.ws project
+(https://github.com/nirholas/three.ws).
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file in the
+root of this repository for the full terms.
+
+Vendored and derived third-party code keeps its own license and attribution.
+Those notices live alongside the code they cover:
+
+  character-studio/LICENSE            fork of M3-org/CharacterStudio
+  src/scene-studio/vendor/LICENSE     vendored three.js editor
+  public/animations/LICENSES.md       animation clip library provenance
+  public/club/**/LICENSES.md          per-asset attribution
+  contracts/lib/**                    third-party Solidity dependencies
+
+Modly (https://github.com/lightningpixel/modly), MIT License,
+Copyright (c) 2026 Lightning Pixel. three.ws builds on it in these places,
+each carrying the notice in its header or folder:
+
+  apps/forge-desktop/LICENSE          fork of the Modly desktop app
+  src/modly-local.js                  client for Modly's local HTTP API
+  src/modly-page.js                   the /modly page
+  src/forge-workflows/                workflow graph and runner
+  src/mesh-ops/core.js                mesh repair, smoothing, decimation
+  src/slicer-handoff.js               open-in-slicer links
+  api/_lib/print/slicer.js            print-ready STL/3MF preparation
+  workers/modly/                      Modly backend on a GPU worker
+  integrations/modly/tests/host/      copy of Modly's BaseGenerator for tests
+
+Nothing in this NOTICE modifies the terms of the Apache License, Version 2.0.
